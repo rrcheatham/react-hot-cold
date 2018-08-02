@@ -1,0 +1,33 @@
+.guess-form {
+    background: #50597b;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+input {
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.guess {
+    background: #50597ba8;
+    color: #fff;
+    border: solid 1px #1f253d;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.submit {
+    background: #1F253D;
+    color: #95a5a6;
+    font-size: 2em;
+    padding: 0.2em;
+    border: solid 1px #1f253d;
+}

@@ -1,0 +1,28 @@
+.navigation-bar ul {
+    list-style: none;    
+}
+
+.navigation-bar ul li{
+    text-transform: uppercase;
+}
+
+.navigation-bar ul li:first-child{
+    float: left;
+}
+
+.navigation-bar ul li:last-child{
+    float: right;
+}
+
+.navigation-bar a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navigation-bar {
+    position: relative;
+    display: block;
+    height: 10%;
+    padding: 1em;
+}
